@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/StyleSettings/qmldir</file>
+        <file>qml/StyleSettings/Style.qml</file>
+        <file>qml/ContactsModule/Base/qmldir</file>
+        <file>qml/ContactsModule/Impl/qmldir</file>
+        <file>qml/ContactsModule/qmldir</file>
+        <file>qml/ContactsModule/Base/BaseListView.qml</file>
+        <file>qml/ContactsModule/Base/BaseListDelegate.qml</file>
+        <file>qml/ContactsModule/Base/BaseText.qml</file>
+        <file>qml/ContactsModule/Impl/ContactsView.qml</file>
+        <file>qml/ContactsModule/Impl/ContactDelegate.qml</file>
+        <file>qml/ContactsModule/Base/ImageCircle.qml</file>
+        <file>qml/ContactsModule/Base/RedactImage.qml</file>
+        <file>qml/ResourceProvider/qmldir</file>
+        <file>qml/ResourceProvider/Resources.qml</file>
+        <file>qml/resources/account.svg</file>
+        <file>qml/resources/user.svg</file>
+        <file>qml/resources/Google-logo.jpg</file>
+        <file>qml/ContactsModule/Base/BaseMenu.qml</file>
+        <file>qml/ContactsModule/Impl/MyMenuBot.qml</file>
+        <file>qml/ContactsModule/Impl/MyMenuTop.qml</file>
+    </qresource>
+</RCC>
